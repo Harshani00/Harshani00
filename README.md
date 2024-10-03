@@ -11,12 +11,13 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Frameworks: Next.js | Data Visualization: Power BI**
-
-- 📫 How to reach me: **r.devika0210@gmail.com**
+-  💡  &nbsp;I like to explore new technologies and passionate about machine learning , data analytics and web development.\
+-  🎓 &nbsp;I have completed my Bsc (Hons) in Computer Science at NSBM Green University Affliated with Plymouth University.\
+-  🌱 I’m currently learning **Frameworks: Next.js | Data Visualization: Power BI**
+-  📫 How to reach me: **r.devika0210@gmail.com**
 
 ---
-
+ 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
