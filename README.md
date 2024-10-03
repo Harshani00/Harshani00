@@ -100,7 +100,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshani00&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshani00&show_icons=true&locale=en&layout=compact&theme=blue" alt="Top Languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshani00&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
 
