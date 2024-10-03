@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frameworks: Next.js | Data Visualization: Power BI**
 
-- 📫 How to reach me: **your_email@example.com**
+- 📫 How to reach me: **r.devika0210@gmail.com**
 
 ---
 
