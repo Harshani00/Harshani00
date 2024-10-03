@@ -15,7 +15,10 @@
 -  🎓 &nbsp;I have completed my Bsc (Hons) in Computer Science at NSBM Green University Affilliated with Plymouth University.
 -  🌱 I’m currently learning **Frameworks: Next.js | Data Visualization: Power BI**
 -  📫 How to reach me: **r.devika0210@gmail.com**
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harshani-rathnayake-81b91623a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshani-rathnayake-81b91623a" height="30" width="40" /></a>
+</p>
 ---
  
 ### 🛠 &nbsp;Tech Stack
