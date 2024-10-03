@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />&nbsp;
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/SQL-%234F5B93.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />&nbsp;
 </p>
 
 ### 🗃 &nbsp;Databases
@@ -44,6 +45,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
 
 
@@ -63,7 +65,8 @@
   <img src="https://img.shields.io/badge/MATLAB-%23E2231A.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />&nbsp;
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />&nbsp;
   <img src="https://img.shields.io/badge/Seaborn-%234C9EE4.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />&nbsp;
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+ 
+  
 </p>
 
 
