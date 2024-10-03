@@ -11,8 +11,8 @@
   </a>
 </p>
 
--  💡  &nbsp;I like to explore new technologies and passionate about machine learning , data analytics and web development.\
--  🎓 &nbsp;I have completed my Bsc (Hons) in Computer Science at NSBM Green University Affliated with Plymouth University.\
+-  💡  &nbsp;I like to explore new technologies and passionate about machine learning , data analytics and web development.
+-  🎓 &nbsp;I have completed my Bsc (Hons) in Computer Science at NSBM Green University Affliated with Plymouth University.
 -  🌱 I’m currently learning **Frameworks: Next.js | Data Visualization: Power BI**
 -  📫 How to reach me: **r.devika0210@gmail.com**
 
