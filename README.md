@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshani Rathnayake</h1>
-<h3 align="center">Software Development Trainee from Sri Lanka</h3>
+<!-- <h3 align="center">Software Development Trainee from Sri Lanka</h3> -->
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=harshani00&label=Profile%20views&color=0e75b6&style=flat" alt="harshani00" /> 
