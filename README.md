@@ -26,12 +26,13 @@
 - **[Uber Rides Data Dashboard](https://harshanirathnayake-flax.vercel.app/portfolio.html)**: Analyzed 148K+ rows of Uber NCR data in Power BI to uncover cancellation patterns, peak times, and ride efficiency. Created custom DAX metrics for time-of-day bucketing and distance ranges; removed columns with 50% null values and handled nulls via filters. Delivered interactive visualizations for operational insights, optimizing rider-driver experiences with Power Query for data transformation.  
   **[GitHub Repo](https://github.com/Harshani00/PowerBI.git)**
 
-- **[Award Management System](https://harshanirathnayake-flax.vercel.app/portfolio.html)**: Full-stack app (React/Node.js/MySQL) automating full award lifecycle (applications, reviews, approvals) for University of Peradeniya. Implemented role-based access, real-time status tracking, and automated email notifications with Node Mailer. Enhanced user adoption via intuitive interfaces using React Bootstrap, ensuring timely milestone delivery in agile workflows.
+- **[Award Management System](https://harshanirathnayake-flax.vercel.app/portfolio.html)**: Full-stack web app (React/Node.js/MySQL) automating full award lifecycle (applications, reviews, approvals) for University of Peradeniya. Implemented role-based access, real-time status tracking, and automated email notifications with Node Mailer. Enhanced user adoption via intuitive interfaces using React Bootstrap, ensuring timely milestone delivery in agile workflows.
+- **[Research Grant Managment System](https://harshanirathnayake-flax.vercel.app/portfolio.html)**: Full-stack web app (React/PHP/MySQL) The Research Grant Management System (RGMS) is a dynamic web-based platform developed to streamline the research grant process at the University of Peradeniya.
 
 ### Work Experience
 - **Trainee Project Coordinator Cum Research Assistant**  
   *Multidisciplinary AI Research Center, University of Peradeniya* | Mar 2025 – Nov 2025  
-  - Led Agent-Based Modeling (ABM) on wildlife behavior using time series/stats for pattern identification and statistical validation.  
+  - Contiibuted to  Agent-Based Modeling (ABM) on wildlife behavior and ABM in Humam Motion projects using time series/stats for pattern identification and statistical validation.  
   - Developed full-stack Award System with React/Node.js for efficient workflows, streamlining submissions and approvals.  
   - Volunteered on web/media team for site maintenance and updates, supporting collaborative research dissemination.
 
