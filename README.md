@@ -5,12 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&logo=gitbook&logoColor=white" alt="Open to Opportunities" />
-  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-%2300A651?style=for-the-badge&logo=earth-asia&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Graduated-%F0%9F%8E%93-Dec%202024-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Graduated" />
-  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20SQL%20%7C%20PowerBI%20%7C%20React-orange?style=for-the-badge&logo=datajoint&logoColor=white" alt="Tools" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge" alt="Open to Opportunities" />
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-%2300A651?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Graduated-%F0%9F%8E%93-Dec%202024-blue?style=for-the-badge" alt="Graduated" />
+  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20SQL%20%7C%20PowerBI%20%7C%20React-orange?style=for-the-badge" alt="Tools" />
 </p>
-
 ---
 
 ### About Me
