@@ -116,5 +116,5 @@ NSBM Green University affiliated with Plymouth University UK
 
 ---
 
-*Last updated: December 31, 2025*  
+
 *Inspired by data-driven growth—let's connect on analytics projects!*
