@@ -10,18 +10,13 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&logo=gitbook" alt="Open to Opportunities" />
-  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-%2300A651?style=for-the-badge&logo=earth-americas" alt="Location" />
-  <img src="https://img.shields.io/badge/Graduated-%F0%9F%8E%93-Dec%202024-blue?style=for-the-badge&logo=graduation-cap" alt="Graduated" />
-</div>
+
 
 ---
 
 ### About Me
-- 💡 Analytical Computer Science graduate passionate about **Data & Statistical Analytics**, **Machine Learning**, **Predictive Modeling**, and **Web Development**. Experienced in Python/SQL for EDA, time series analysis, and building data pipelines.
+- 💡 Analytical Computer Science graduate passionate about **Data & Statistical Analytics**, **Machine Learning**, **Predictive Modeling**, and **Web Development**. Experienced in Python/SQL for EDA and time series analysis.
 - 🎓 BSc (Hons) in Computer Science, Second Class Upper Division, from NSBM Green University (affiliated with Plymouth University UK), graduated December 2024.
-- 🌱 Currently: Trainee Project Coordinator & Research Assistant at Multidisciplinary AI Research Center, University of Peradeniya (Mar–Nov 2025); exploring **Power BI**, **Next.js**, **Excel advanced analytics**, and cloud data tools (e.g., Azure/Hadoop extensions).
 - 📫 Reach me: **harshanirathnayake20@gmail.com** | [+94 076 212 5589](tel:+94762125589) | [LinkedIn](https://www.linkedin.com/in/harshani-rathnayake-81b91623a)
 
 ---
