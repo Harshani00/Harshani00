@@ -92,10 +92,10 @@
   </a>
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshani00&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=harshani00&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
-*Last updated: December 31, 2025*  
+
 *Inspired by data-driven growth—let's connect on analytics projects!*
